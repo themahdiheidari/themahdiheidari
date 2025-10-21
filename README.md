@@ -34,7 +34,7 @@ I'm deeply interested in **startups**, **creative ideas**, and **building produc
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://github.com/the-mahdi-heidari" target="_blank">
+  <a href="https://github.com/themahdiheidari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:the.mahdi.heidari@example.com" target="_blank">
