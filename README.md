@@ -21,6 +21,7 @@ I'm deeply interested in **startups**, **creative ideas**, and **building produc
   <img src="https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/go-02569B?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/gin-02569B?style=for-the-badge&logo=gin&logoColor=white" />
 </p>
 
 ---
